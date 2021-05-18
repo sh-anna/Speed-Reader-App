@@ -1,1 +1,1 @@
-# Speed-Reader-App
+#  Speed Reader for IOSand Android
